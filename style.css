@@ -1,0 +1,20 @@
+body{
+    text-align:center;
+    background-color:chartreuse;
+}
+
+
+#header{
+    font-size: larger;
+    color:chocolate;
+    background-color:cornflowerblue;
+    border-top-color: crimson;
+    border-bottom-color: dodgerblue;
+    border-right-color: gold;
+    border-left-color: hotpink;
+}
+
+
+#sketchShow{
+    float:right;
+}
